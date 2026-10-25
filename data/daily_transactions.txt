@@ -1,0 +1,95 @@
+2026-10-05 23:53:06|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-08 23:53:06|CARD_ISSUED|CARD-102|Sneha Patel|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-09-30 23:53:06|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-08-31 23:53:06|CARD_ISSUED|PASS-202|Vikram Rane|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-10 23:53:06|CARD_ISSUED|TOUR-301|John Smith|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-10 23:53:06|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|Marine Drive (Nariman Point)|4.20|6.00|SUCCESS
+2026-10-10 23:53:06|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|123|NON_AC|R.C. Church (Colaba)|Tardeo Central|12.00|15.00|SUCCESS
+2026-10-10 23:53:06|TRIP_COMPLETED|PASS-201|Rohan Deshmukh|Monthly Pass|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|Backbay Bus Depot|9.40|0.00|SUCCESS
+2026-10-10 23:53:06|TRIP_COMPLETED|TOUR-301|John Smith|Tourist Pass (1-Day Mumbai Darshan Unlimited)|C-505|AC|Bandra Station West|CBD Belapur|26.50|0.00|SUCCESS
+2026-10-10 23:53:06|FAILED_ATTEMPT|CARD-102|Sneha Patel|UNKNOWN|123|N/A|N/A|N/A|0.00|0.00|ERROR: Insufficient smart card balance for tap-in. (Available: ₹4.00, Required: ₹6.00)
+2026-10-10 23:53:06|RECHARGE|CARD-102|Sneha Patel|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|NEW_BALANCE_₹54.00
+2026-10-10 23:53:06|TRIP_COMPLETED|CARD-102|Sneha Patel|Single Ride Smart Card|123|NON_AC|R.C. Church (Colaba)|Churchgate Station|4.50|6.00|SUCCESS
+2026-10-10 23:53:06|FAILED_ATTEMPT|PASS-202|Vikram Rane|UNKNOWN|A-115|N/A|N/A|N/A|0.00|0.00|ERROR: Monthly Pass has expired. Please renew your subscription. (Pass Expired On: 08-Oct-2026 23:53)
+2026-10-10 23:53:06|FAILED_ATTEMPT|CARD-101|Aarav Mehta|UNKNOWN|A-115|N/A|N/A|N/A|0.00|0.00|ERROR: Tap-out scanned without an active tap-in for Ticket: CARD-101
+2026-10-06 04:10:20|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-09 04:10:20|CARD_ISSUED|CARD-102|Sneha Patel|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-01 04:10:20|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-01 04:10:20|CARD_ISSUED|PASS-202|Vikram Rane|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-11 04:10:20|CARD_ISSUED|TOUR-301|John Smith|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-11 04:10:45|FAILED_ATTEMPT|343|Unknown|UNKNOWN|123|N/A|N/A|N/A|0.00|0.00|ERROR: Unregistered ticket scanned
+2026-10-06 13:16:15|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-09 13:16:15|CARD_ISSUED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-01 13:16:15|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-01 13:16:15|CARD_ISSUED|PASS-202|Vikram Rane (Expired)|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-11 13:16:15|CARD_ISSUED|TOUR-301|John Smith (Tourist)|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-06 13:22:55|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-09 13:22:55|CARD_ISSUED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-01 13:22:55|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-01 13:22:55|CARD_ISSUED|PASS-202|Vikram Rane (Expired)|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-11 13:22:55|CARD_ISSUED|TOUR-301|John Smith (Tourist)|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-11 13:23:31|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|NCPA Arts Centre|5.50|13.00|SUCCESS
+2026-10-07 09:48:25|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-10 09:48:25|CARD_ISSUED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-02 09:48:25|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-02 09:48:25|CARD_ISSUED|PASS-202|Vikram Rane (Expired)|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-12 09:48:25|CARD_ISSUED|TOUR-301|John Smith (Tourist)|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-12 09:50:00|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|Cuffe Parade|7.80|13.00|SUCCESS
+2026-10-07 10:06:52|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-10 10:06:52|CARD_ISSUED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-02 10:06:52|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-02 10:06:52|CARD_ISSUED|PASS-202|Vikram Rane (Expired)|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-12 10:06:52|CARD_ISSUED|TOUR-301|John Smith (Tourist)|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-12 10:07:47|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|Marine Drive (Nariman Point)|4.20|6.00|SUCCESS
+2026-10-12 10:08:21|FAILED_ATTEMPT|CARD-102|Sneha Patel (Low Balance)|UNKNOWN|A-115|N/A|N/A|N/A|0.00|0.00|ERROR: Insufficient smart card balance for tap-in. (Available: ₹4.00, Required: ₹6.00)
+2026-10-07 10:08:58|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-10 10:08:58|CARD_ISSUED|CARD-102|Sneha Patel|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-02 10:08:58|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-02 10:08:58|CARD_ISSUED|PASS-202|Vikram Rane|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-12 10:08:58|CARD_ISSUED|TOUR-301|John Smith|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-12 10:08:58|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|Marine Drive (Nariman Point)|4.20|6.00|SUCCESS
+2026-10-12 10:08:58|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|123|NON_AC|R.C. Church (Colaba)|Tardeo Central|12.00|15.00|SUCCESS
+2026-10-12 10:08:58|TRIP_COMPLETED|PASS-201|Rohan Deshmukh|Monthly Pass|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|Backbay Bus Depot|9.40|0.00|SUCCESS
+2026-10-12 10:08:58|TRIP_COMPLETED|TOUR-301|John Smith|Tourist Pass (1-Day Mumbai Darshan Unlimited)|C-505|AC|Bandra Station West|CBD Belapur|26.50|0.00|SUCCESS
+2026-10-12 10:08:58|FAILED_ATTEMPT|CARD-102|Sneha Patel|UNKNOWN|123|N/A|N/A|N/A|0.00|0.00|ERROR: Insufficient smart card balance for tap-in. (Available: ₹4.00, Required: ₹6.00)
+2026-10-12 10:08:58|RECHARGE|CARD-102|Sneha Patel|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|NEW_BALANCE_₹54.00
+2026-10-12 10:08:58|TRIP_COMPLETED|CARD-102|Sneha Patel|Single Ride Smart Card|123|NON_AC|R.C. Church (Colaba)|Churchgate Station|4.50|6.00|SUCCESS
+2026-10-12 10:08:58|FAILED_ATTEMPT|PASS-202|Vikram Rane|UNKNOWN|A-115|N/A|N/A|N/A|0.00|0.00|ERROR: Monthly Pass has expired. Please renew your subscription. (Pass Expired On: 10-Oct-2026 10:08)
+2026-10-12 10:08:58|FAILED_ATTEMPT|CARD-101|Aarav Mehta|UNKNOWN|A-115|N/A|N/A|N/A|0.00|0.00|ERROR: Tap-out scanned without an active tap-in for Ticket: CARD-101
+2026-10-15 17:27:33|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-18 17:27:33|CARD_ISSUED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-10 17:27:33|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-10 17:27:33|CARD_ISSUED|PASS-202|Vikram Rane (Expired)|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-20 17:27:33|CARD_ISSUED|TOUR-301|John Smith (Tourist)|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-15 17:35:50|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-18 17:35:50|CARD_ISSUED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-10 17:35:50|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-10 17:35:50|CARD_ISSUED|PASS-202|Vikram Rane (Expired)|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-20 17:35:50|CARD_ISSUED|TOUR-301|John Smith (Tourist)|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-15 17:56:26|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-18 17:56:26|CARD_ISSUED|CARD-102|Sneha Patel|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-10 17:56:26|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-10 17:56:26|CARD_ISSUED|PASS-202|Vikram Rane|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-20 17:56:26|CARD_ISSUED|TOUR-301|John Smith|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-20 17:56:26|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|Marine Drive (Nariman Point)|4.20|6.00|SUCCESS
+2026-10-20 17:56:26|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|123|NON_AC|R.C. Church (Colaba)|Tardeo Central|12.00|15.00|SUCCESS
+2026-10-20 17:56:26|TRIP_COMPLETED|PASS-201|Rohan Deshmukh|Monthly Pass|A-115|AC|CSMT (Chhatrapati Shivaji Maharaj Terminus)|Backbay Bus Depot|9.40|0.00|SUCCESS
+2026-10-20 17:56:26|TRIP_COMPLETED|TOUR-301|John Smith|Tourist Pass (1-Day Mumbai Darshan Unlimited)|C-505|AC|Bandra Station West|CBD Belapur|26.50|0.00|SUCCESS
+2026-10-20 17:56:26|FAILED_ATTEMPT|CARD-102|Sneha Patel|UNKNOWN|123|N/A|N/A|N/A|0.00|0.00|ERROR: Insufficient smart card balance for tap-in. (Available: ₹4.00, Required: ₹6.00)
+2026-10-20 17:56:26|RECHARGE|CARD-102|Sneha Patel|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|NEW_BALANCE_₹54.00
+2026-10-20 17:56:26|TRIP_COMPLETED|CARD-102|Sneha Patel|Single Ride Smart Card|123|NON_AC|R.C. Church (Colaba)|Churchgate Station|4.50|6.00|SUCCESS
+2026-10-20 17:56:26|FAILED_ATTEMPT|PASS-202|Vikram Rane|UNKNOWN|A-115|N/A|N/A|N/A|0.00|0.00|ERROR: Monthly Pass has expired. Please renew your subscription. (Pass Expired On: 18-Oct-2026 17:56)
+2026-10-20 17:56:26|FAILED_ATTEMPT|CARD-101|Aarav Mehta|UNKNOWN|A-115|N/A|N/A|N/A|0.00|0.00|ERROR: Tap-out scanned without an active tap-in for Ticket: CARD-101
+2026-10-20 13:15:37|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-23 13:15:37|CARD_ISSUED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-15 13:15:37|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-15 13:15:37|CARD_ISSUED|PASS-202|Vikram Rane (Expired)|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-25 13:15:37|CARD_ISSUED|TOUR-301|John Smith (Tourist)|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-20 13:16:43|CARD_ISSUED|CARD-101|Aarav Mehta|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|ISSUED_SUCCESSFULLY
+2026-10-23 13:16:43|CARD_ISSUED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|4.00|ISSUED_SUCCESSFULLY
+2026-10-15 13:16:43|CARD_ISSUED|PASS-201|Rohan Deshmukh|Monthly Pass|N/A|N/A|N/A|N/A|0.00|750.00|ISSUED_SUCCESSFULLY
+2026-09-15 13:16:43|CARD_ISSUED|PASS-202|Vikram Rane (Expired)|Monthly Pass|N/A|N/A|N/A|N/A|0.00|500.00|ISSUED_SUCCESSFULLY
+2026-10-25 13:16:43|CARD_ISSUED|TOUR-301|John Smith (Tourist)|Tourist Pass (1-Day Mumbai Darshan Unlimited)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-25 13:16:50|TRIP_COMPLETED|CARD-101|Aarav Mehta|Single Ride Smart Card|A-115|AC|Marine Drive (Nariman Point)|Cuffe Parade|3.60|6.00|SUCCESS
+2026-10-25 13:17:07|RECHARGE|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|50.00|NEW_BALANCE_₹54.00
+2026-10-25 13:17:18|TRIP_COMPLETED|CARD-102|Sneha Patel (Low Balance)|Single Ride Smart Card|A-115|AC|Hutatma Chowk (Flora Fountain)|Cuffe Parade|6.60|13.00|SUCCESS

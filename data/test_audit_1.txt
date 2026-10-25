@@ -1,0 +1,4 @@
+2026-10-20 17:56:36|CARD_ISSUED|C-LOW|Test Low|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|3.00|ISSUED_SUCCESSFULLY
+2026-10-20 17:56:36|FAILED_ATTEMPT|C-LOW|Test Low|UNKNOWN|R1|N/A|N/A|N/A|0.00|0.00|ERROR: Insufficient smart card balance for tap-in. (Available: ₹3.00, Required: ₹6.00)
+2026-10-20 17:56:36|RECHARGE|C-LOW|Test Low|Single Ride Smart Card|N/A|N/A|N/A|N/A|0.00|20.00|NEW_BALANCE_₹23.00
+2026-10-20 17:56:36|TRIP_COMPLETED|C-LOW|Test Low|Single Ride Smart Card|R1|NON_AC|CSMT|Churchgate|2.50|6.00|SUCCESS

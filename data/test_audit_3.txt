@@ -1,0 +1,2 @@
+2026-10-20 17:56:36|CARD_ISSUED|TOUR-99|Tourist Alice|Tourist Pass (1-Day Mumbai Darshan)|N/A|N/A|N/A|N/A|0.00|150.00|ISSUED_SUCCESSFULLY
+2026-10-20 17:56:36|TRIP_COMPLETED|TOUR-99|Tourist Alice|Tourist Pass (1-Day Mumbai Darshan)|R3|AC|Gateway of India|Bandra Fort|18.00|0.00|SUCCESS
